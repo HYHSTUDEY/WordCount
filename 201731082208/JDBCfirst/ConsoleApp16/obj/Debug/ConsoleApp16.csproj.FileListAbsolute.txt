@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\obj\Debug\ConsoleApp16.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+C:\Users\Administrator\source\repos\JDBCfirst\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
